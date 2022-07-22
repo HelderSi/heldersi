@@ -1,14 +1,14 @@
 <h3> Helder Silva 👋 </h3>
  
 <p align="left" style="background:yellow">
+      <a href="https://linkedin.com/in/heldersi" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-heldersi-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+      </a>
       <a href="https://codepen.io/heldersi" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-heldersi-05122A?style=flat&logo=codepen" alt="codepen"/>
       </a>
       <a href="https://twitter.com/heldersi" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-heldersi-05122A?style=flat&logo=twitter" alt="twitter"/>  
-      </a>
-      <a href="https://linkedin.com/in/heldersi" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-heldersi-05122A?style=flat&logo=linkedin" alt="linkedin"/>
       </a>
   </p>
   
