@@ -4,6 +4,10 @@
   <a href="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;ReactJS%20|%20NodeJS%20|%20ReactNative%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/heldersi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;ReactJS%20|%20NodeJS%20|%20ReactNative%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+
 <br>
  
 <p align="left" style="background:yellow">
