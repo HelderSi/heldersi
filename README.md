@@ -1,4 +1,4 @@
-<h2 align="center">Hi , I'm Helder Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h2 align="center">Hi , I'm Helder Silva</h2>
 
 
 <p align="center">
@@ -17,9 +17,11 @@
       <a href="https://twitter.com/heldersi" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-heldersi-05122A?style=flat&logo=twitter" alt="twitter"/>  
       </a>
-  </p>
-  
- <div align="center">
+</p>
+
+<br/>
+
+<div align="center">
   <a href="https://github.com/heldersi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heldersi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
