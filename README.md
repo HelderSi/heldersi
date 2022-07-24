@@ -1,4 +1,4 @@
-<h3 align="center">Hi , I'm Helder Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
+<h2>Hi , I'm Helder Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
  
 <p align="left" style="background:yellow">
       <a href="https://linkedin.com/in/heldersi" target="_blank">
