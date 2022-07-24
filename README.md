@@ -4,8 +4,6 @@
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;ReactJS%20|%20NodeJS%20|%20ReactNative%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-
-<br>
  
 <p align="center" style="background:yellow">
       <a href="https://linkedin.com/in/heldersi" target="_blank">
@@ -32,7 +30,5 @@
  <img align="center" alt="heldersi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="heldersi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="heldersi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="heldersi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="heldersi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
