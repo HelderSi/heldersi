@@ -1,6 +1,6 @@
-<h2>Hi , I'm Helder Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h2 align="center">Hi , I'm Helder Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-<p>
+<p align="center">
   <a href="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;ReactJS%20|%20NodeJS%20|%20ReactNative%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
