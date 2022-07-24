@@ -21,7 +21,8 @@
 
 <div align="center">
   <a href="https://github.com/heldersi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heldersi&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heldersi&layout=compact&langs_count=7&theme=algolia"/>
+  <br/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
